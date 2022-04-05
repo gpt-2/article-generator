@@ -1,5 +1,5 @@
 # GPT-2 article generator tool
-Simple [GPT-2](https://gpt-2.com) AI article generator PHP script.
+[GPT-2](https://gpt-2.com) AI article generator simple PHP script.
 
 With [GPT-2.COM](https://gpt-2.com) fine-tuned model you can generate unique articles in many affiliate marketing niches, for SEO needs such as: PBN, Link Wheels, Doorways, etc ... 
 
