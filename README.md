@@ -10,8 +10,8 @@ With [GPT-2.COM](https://gpt-2.com) fine-tuned model you can generate unique art
 
 
 ## Installation
-Download ZIP file to any folder on machine with PHP
-Make folder out writeable
+Download ZIP file to any folder on machine with PHP, and extract
+Make folder 'out' writeable
 ```bash
 chmod 777 out
  ```
