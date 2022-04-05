@@ -26,7 +26,8 @@ max_execution_time = 0
 ```
 ## Usage 
 
-Tasks are stored in tasks.txt in the following format:  title|prefix
+Tasks are stored in file **tasks.txt** in the following format:  **title|prefix**
+
 Each line - one article task. Fill tasks.txt with your tasks.
 
 Run the script
