@@ -28,7 +28,7 @@ max_execution_time = 0
 
 Tasks are stored in file **tasks.txt** in the following format:  **title|prefix**
 
-Each line - one article task. Fill tasks.txt with your tasks.
+Each line - one article task. Fill tasks.txt with your tasks. Prefix should be 50-250 symbols. The more relevant the better.
 
 Run the script
 ```bash
